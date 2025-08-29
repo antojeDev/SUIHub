@@ -3,6 +3,4 @@ description: "Wiki sobre SwiftUI con ejemplos, notas y recursos de aprendizaje."
 remote_theme: just-the-docs/just-the-docs
 color_scheme: dark
 
-# Opciones de navegación
-nav_sort: case_insensitive
-search_enabled: true
+docs_dir: docs
